@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="hk" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png"
+#EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="hk" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg"
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg"
 http://livetv.dnsfor.me:80/channel.10.m3u8
 
-#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="hk" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
 http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
-#EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="hk" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+#EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
-#EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="hk" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+#EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
 http://61.238.6.49:8000/bysid/1
 
 #EXTINF:-1 ,ViuTV tvg-logo="http://www.zyz98.com/uploads/viutv.jpg"
@@ -43,3 +43,6 @@ http://seb.sason.top/sc/tsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",CCTV-1
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV中国中央电视台-1 综合
+http://117.169.120.140:8080/live/cctv-1/.m3u8
