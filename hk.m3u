@@ -11,6 +11,14 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
 http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
+#EXTINF:-1 ,翡翠台
+tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 ,翡翠台
+tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+http://61.238.6.49:8000/bysid/1
+
 #EXTINF:-1 ,ViuTV
 tvg-logo="http://www.zyz98.com/uploads/viutv.jpg"
 http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
@@ -27,6 +35,10 @@ http://livetv.dnsfor.me:80/channel.11.m3u8
 tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg"
 http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 
+#EXTINF:-1 ,港台電視31
+tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg"
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+
 #EXTINF:-1 ,港台電視32
 tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg"
 http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
@@ -38,3 +50,7 @@ http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 #EXTINF:-1 ,凤凰香港
 tvg-logo="http://www.zyz98.com/uploads/fhxgt.jpg"
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
+
+#EXTINF:-1 ,台视新聞
+tvg-logo="http://www.zyz98.com/uploads/ftv.jpg"
+http://seb.sason.top/sc/tsxw_fhd.m3u8
