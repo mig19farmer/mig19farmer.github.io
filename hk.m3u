@@ -1,4 +1,14 @@
 #EXTM3U
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有線奧運601台" tvg-country="cn" tvg-language="" tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" group-title="",有線奧運601台
+https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
+https://www.navchina.cf/IPTV/icable.php?id=37
+
 #EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
@@ -38,15 +48,24 @@ http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 #EXTINF:-1 ,tvg-id="12" tvg-name="凤凰香港" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhxgt.jpg" group-title="",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 
+#EXTINF:-1 ,tvg-id="12" tvg-name="凤凰资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhzxt.jpg" group-title="",凤凰资讯台
+http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
+
+#EXTINF:-1 ,tvg-id="12" tvg-name="凤凰中文台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhzwt.jpg" group-title="",凤凰中文台
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+
 #EXTINF:-1 ,tvg-id="13" tvg-name="台视新聞" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/ftv.jpg" group-title="",台视新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 
-#EXTINF:-1 ,tvg-id="13" tvg-name="台视第一台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv003_pc.png" group-title="",台视第一台
+#EXTINF:-1 ,tvg-id="14" tvg-name="台视第一台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv003_pc.png" group-title="",台视第一台
 http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
 
-#EXTINF:-1 ,tvg-id="13" tvg-name="台视台湾台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",台视台湾台
+#EXTINF:-1 ,tvg-id="15" tvg-name="台视台湾台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",台视台湾台
 http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",CCTV-1
-http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
+#EXTINF:-1 ,tvg-id="16" tvg-name="TVBS欢乐台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv068_pc.png" group-title="",TVBS欢乐台
+rtmp://59.124.75.153/sat/tv421
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="三立台湾台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/settaiwan.jpg" group-title="",三立台湾台
+http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
 
