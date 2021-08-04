@@ -1,0 +1,40 @@
+#EXTM3U
+#EXTINF:-1 ,香港開電視
+tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png"
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
+#EXTINF:-1 ,无线新闻台
+tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg"
+http://livetv.dnsfor.me:80/channel.10.m3u8
+
+#EXTINF:-1 ,翡翠台
+tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+
+#EXTINF:-1 ,ViuTV
+tvg-logo="http://www.zyz98.com/uploads/viutv.jpg"
+http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+
+#EXTINF:-1 ,TVB J2
+tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg"
+http://223.110.241.130:6610/gitv/live1/G_CCTV-3-HQ/.m3u8
+
+#EXTINF:-1 ,财经资讯台
+tvg-logo="http://wwwhttp://www.zyz98.com/uploads/tvb-finance.jpg"
+http://livetv.dnsfor.me:80/channel.11.m3u8
+
+#EXTINF:-1 ,ViuTV6
+tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg"
+http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
+
+#EXTINF:-1 ,港台電視32
+tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg"
+http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
+
+#EXTINF:-1 ,港台電視31
+tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg"
+http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
+
+#EXTINF:-1 ,凤凰香港
+tvg-logo="http://www.zyz98.com/uploads/fhxgt.jpg"
+http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
