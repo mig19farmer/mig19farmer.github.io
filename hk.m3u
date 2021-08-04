@@ -17,32 +17,30 @@ http://61.238.6.49:8000/bysid/1
 #EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
 http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 
-#EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" TVB J2 tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
+#EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 
-#EXTINF:-1 ,财经资讯台 tvg-logo="http://wwwhttp://www.zyz98.com/uploads/tvb-finance.jpg"
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://wwwhttp://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
 http://livetv.dnsfor.me:80/channel.11.m3u8
 
-#EXTINF:-1 ,ViuTV6 tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg"
+#EXTINF:-1 ,tvg-id="8" tvg-name="VviuTV6" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg" group-title="",VviuTV6
 http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 
-#EXTINF:-1 ,港台電視31 tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg"
+#EXTINF:-1 ,tvg-id="9" tvg-name="港台電視31" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
 
-#EXTINF:-1 ,港台電視32 tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg"
+#EXTINF:-1 ,tvg-id="9" tvg-name="港台電視32" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg" group-title="",港台電視32
 http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 
-#EXTINF:-1 ,港台電視31 tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg"
+#EXTINF:-1 ,tvg-id="11" tvg-name="港台電視31" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="",港台電視31
 http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 
-#EXTINF:-1 ,凤凰香港 tvg-logo="http://www.zyz98.com/uploads/fhxgt.jpg"
+#EXTINF:-1 ,tvg-id="12" tvg-name="凤凰香港" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhxgt.jpg" group-title="",凤凰香港
 http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P
 
-#EXTINF:-1 ,台视新聞 tvg-logo="http://www.zyz98.com/uploads/ftv.jpg"
+#EXTINF:-1 ,tvg-id="13" tvg-name="台视新聞" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/ftv.jpg" group-title="",台视新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",CCTV-1
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-country="CN" tvg-language="Chinese;Mandarin Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="General",CCTV中国中央电视台-1 综合
-http://117.169.120.140:8080/live/cctv-1/.m3u8
