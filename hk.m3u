@@ -20,7 +20,7 @@ http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 
-#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://wwwhttp://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
 http://livetv.dnsfor.me:80/channel.11.m3u8
 
 #EXTINF:-1 ,tvg-id="8" tvg-name="VviuTV6" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg" group-title="",VviuTV6
