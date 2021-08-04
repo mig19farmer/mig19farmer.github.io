@@ -41,6 +41,12 @@ http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1
 #EXTINF:-1 ,tvg-id="13" tvg-name="台视新聞" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/ftv.jpg" group-title="",台视新聞
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 
+#EXTINF:-1 ,tvg-id="13" tvg-name="台视第一台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv003_pc.png" group-title="",台视第一台
+http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+
+#EXTINF:-1 ,tvg-id="13" tvg-name="台视台湾台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",台视台湾台
+http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-name="CCTV-1" tvg-country="CN" tvg-language="" tvg-logo="" group-title="",CCTV-1
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225852/index.m3u8
 
