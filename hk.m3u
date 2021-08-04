@@ -2,19 +2,19 @@
 #EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg"
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://livetv.dnsfor.me:80/channel.10.m3u8
 
-#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
 
-#EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+#EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
-#EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="Chinese;Mandarin Chinese" tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
+#EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 http://61.238.6.49:8000/bysid/1
 
-#EXTINF:-1 ,ViuTV tvg-logo="http://www.zyz98.com/uploads/viutv.jpg"
+#EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
 http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 
 #EXTINF:-1 ,TVB J2 tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg"
