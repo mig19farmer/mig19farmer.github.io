@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,香港电台第一台
+https://rthkaudio1-lh.akamaihd.net/i/radio1_1@355864/index_56_a-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 ,商业一台
+https://w01.881903.com/edge-ts/881hd/chunks.m3u8?nimblesessionid=7268724&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIxIDEwOjM0OjQ3IEFNJmhhc2hfdmFsdWU9NVM5TGxyRFRhd1g2RmFuK2lzeWpEUT09JnZhbGlkbWludXRlcz0xNDQw&r=r3j2yOunob7vs9hK
+
+#EXTINF:-1 ,商业二台
+https://w01.881903.com/edge-ts/903hd/chunks.m3u8?nimblesessionid=7268821&wmsAuthSign=c2VydmVyX3RpbWU9OC8xMi8yMDIxIDEwOjQ1OjQ3IEFNJmhhc2hfdmFsdWU9Z2xWa1dvdkVFQjJ0YUVjWVlIaytFdz09JnZhbGlkbWludXRlcz0xNDQw&r=5zvY1zHmC6I1IIrU
