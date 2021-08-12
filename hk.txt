@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,香港開電視
 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png"
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+http://livetv.dnsfor.me:80/channel.9.m3u8
 
 #EXTINF:-1 ,无线新闻台
 tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg"
