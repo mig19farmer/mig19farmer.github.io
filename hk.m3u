@@ -54,11 +54,11 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 ,tvg-id="12" tvg-name="凤凰中文台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhzwt.jpg" group-title="",凤凰中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 
-#EXTINF:-1 ,tvg-id="13" tvg-name="台视新聞" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/ftv.jpg" group-title="",台视新聞
-http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 ,tvg-id="13" tvg-name="广州新闻" tvg-country="cn" tvg-language="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/aa18972bd40735fadd37e3d991510fb30e24088e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="",台视新聞
+http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzxw
 
-#EXTINF:-1 ,tvg-id="14" tvg-name="台视第一台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv003_pc.png" group-title="",台视第一台
-http://185.207.176.189:8080/channels/tw-301/playlist.m3u8
+#EXTINF:-1 ,tvg-id="14" tvg-name="广州综合" tvg-country="cn" tvg-language="" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&ct=single" group-title="",台视第一台
+http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzzh
 
 #EXTINF:-1 ,tvg-id="15" tvg-name="台视台湾台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",台视台湾台
 http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
