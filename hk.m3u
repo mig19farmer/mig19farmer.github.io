@@ -78,3 +78,17 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 ,tvg-id="17" tvg-name="Astro欢喜台" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Astro_Xi_Yue_HD.png" group-title="",Astro欢喜台
 http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 
+#EXTINF:-1 ,tvg-id="17" tvg-name="HBO台湾" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="",HBO台湾
+http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="NAT GEO wild" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="",NAT GEO wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 ,tvg-id="17" tvg-name="国家地理" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="",国家地理
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="Disney Junior" tvg-country="cn" tvg-language="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="",Disney Junior
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
