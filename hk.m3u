@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 ,tvg-id="1" tvg-name="有線奧運601台" tvg-country="cn" tvg-language="" tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" group-title="",有線奧運601台
-https://www.navchina.cf/IPTV/icable.php?id=61#https://api.leonardpark.dev/live/icable/601
+#EXTINF:-1 ,tvg-id="1" tvg-name="有線综合娱乐" tvg-country="cn" tvg-language="" tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" group-title="",有線综合娱乐
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 
-#EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
-https://www.navchina.cf/IPTV/icable.php?id=37
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
+https://api.leonardpark.dev/live/icable/108
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -15,17 +15,26 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://livetv.dnsfor.me:80/channel.10.m3u8
 
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://livetv.dnsfor.me/channel.10.m3u8
+
 #EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
-http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+http://livetv.dnsfor.me/channel.18.m3u8
 
 #EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
-http://61.238.6.49:8000/bysid/1
+http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
+
+#EXTINF:-1 ,tvg-id="5" tvg-name="明珠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",明珠台
+http://cdn.hkdtmb.com/hls/84/index.m3u8
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
-http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
+http://61.238.6.49:8000/bysid/99
 
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
@@ -54,18 +63,18 @@ http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 #EXTINF:-1 ,tvg-id="12" tvg-name="凤凰中文台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/fhzwt.jpg" group-title="",凤凰中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 
-#EXTINF:-1 ,tvg-id="13" tvg-name="广州新闻" tvg-country="cn" tvg-language="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/aa18972bd40735fadd37e3d991510fb30e24088e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="",台视新聞
+#EXTINF:-1 ,tvg-id="13" tvg-name="广州新闻" tvg-country="cn" tvg-language="" tvg-logo="https://bkimg.cdn.bcebos.com/pic/aa18972bd40735fadd37e3d991510fb30e24088e?x-bce-process=image/watermark,image_d2F0ZXIvYmFpa2UxNTA=,g_7,xp_5,yp_5/format,f_auto" group-title="",广州新闻
 http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzxw
 
-#EXTINF:-1 ,tvg-id="14" tvg-name="广州综合" tvg-country="cn" tvg-language="" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&ct=single" group-title="",台视第一台
+#EXTINF:-1 ,tvg-id="14" tvg-name="广州综合" tvg-country="cn" tvg-language="" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&ct=single" group-title="",广州综合
 http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzzh
 
-#EXTINF:-1 ,tvg-id="15" tvg-name="台视台湾台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",台视台湾台
-http://185.207.176.189:8080/channels/tw-304/playlist.m3u8
+#EXTINF:-1 ,tvg-id="15" tvg-name="民視旅游" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",民視旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
 
-#EXTINF:-1 ,tvg-id="16" tvg-name="TVBS欢乐台" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv068_pc.png" group-title="",TVBS欢乐台
-rtmp://59.124.75.153/sat/tv421
+#EXTINF:-1 ,tvg-id="16" tvg-name="Disney Channel" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="",Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 
-#EXTINF:-1 ,tvg-id="17" tvg-name="三立台湾台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/settaiwan.jpg" group-title="",三立台湾台
-http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 ,tvg-id="17" tvg-name="Astro欢喜台" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Astro_Xi_Yue_HD.png" group-title="",Astro欢喜台
+http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
 
