@@ -49,11 +49,14 @@ http://livetv.dnsfor.me/channel.19.m3u8
 #EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
+http://cdn.hkdtmb.com/hls/85/index.m3u8
+
 #EXTINF:-1 ,tvg-id="8" tvg-name="VviuTV6" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg" group-title="",VviuTV6
 http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
 
-#EXTINF:-1 ,tvg-id="9" tvg-name="港台電視31" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="",港台電視31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 ,tvg-id="9" tvg-name="香港C+" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk31.jpg" group-title="",香港C+
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
 
 #EXTINF:-1 ,tvg-id="9" tvg-name="港台電視32" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/rhk32.jpg" group-title="",港台電視32
 http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
@@ -96,6 +99,9 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 ,tvg-id="16" tvg-name="Disney Junior" tvg-country="cn" tvg-language="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="",Disney Junior
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="GOODTV-卡通" tvg-country="cn" tvg-language="" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/disneyjuniorlogo.png" group-title="",GOODTV-卡通
+https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 
 #EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
