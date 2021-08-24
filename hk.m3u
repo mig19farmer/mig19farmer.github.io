@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 ,tvg-id="1" tvg-name="有線综合娱乐" tvg-country="cn" tvg-language="" tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" group-title="",有線综合娱乐
-http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
+https://www.navchina.cf/IPTV/icable.php?id=37
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
 https://api.leonardpark.dev/live/icable/109
@@ -9,14 +9,20 @@ https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
 https://api.leonardpark.dev/live/icable/108
 
+#EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
+https://www.navchina.cf/IPTV/icable.php?id=38
+
 #EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
-http://livetv.dnsfor.me:80/channel.10.m3u8
+http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://cdn.hkdtmb.com/hls/83/index.m3u8
 
 #EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 http://livetv.dnsfor.me/channel.18.m3u8
@@ -26,6 +32,7 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
+
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="明珠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",明珠台
 http://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -37,10 +44,10 @@ https://cdn.hkdtmb.com/hls/99/index.m3u8
 http://61.238.6.49:8000/bysid/99
 
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://livetv.dnsfor.me/channel.19.m3u8
 
 #EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
-http://livetv.dnsfor.me:80/channel.11.m3u8
+http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 #EXTINF:-1 ,tvg-id="8" tvg-name="VviuTV6" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv6.jpg" group-title="",VviuTV6
 http://185.207.176.189:8080/channels/tv-96/mpeg.2ts
@@ -69,14 +76,14 @@ http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzxw
 #EXTINF:-1 ,tvg-id="14" tvg-name="广州综合" tvg-country="cn" tvg-language="" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&ct=single" group-title="",广州综合
 http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzzh
 
-#EXTINF:-1 ,tvg-id="15" tvg-name="民視旅游" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",民視旅游
-http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 ,tvg-id="15" tvg-name="DiscoveryHDWorld" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",DiscoveryHDWorld
+https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
 
 #EXTINF:-1 ,tvg-id="16" tvg-name="Disney Channel" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="",Disney Channel
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 
 #EXTINF:-1 ,tvg-id="17" tvg-name="Astro欢喜台" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Astro_Xi_Yue_HD.png" group-title="",Astro欢喜台
-http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
+http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
 
 #EXTINF:-1 ,tvg-id="17" tvg-name="HBO台湾" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="",HBO台湾
 http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
@@ -91,4 +98,8 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 
 #EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+
