@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
-https://www.navchina.cf/IPTV/icable.php?id=37
+https://api.leonardpark.dev/live/icable/109
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
-https://api.leonardpark.dev/live/icable/109
+https://www.navchina.cf/IPTV/icable.php?id=37
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
 https://api.leonardpark.dev/live/icable/108
@@ -35,7 +35,7 @@ http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
 
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="明珠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",明珠台
-http://cdn.hkdtmb.com/hls/84/index.m3u8
+https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
@@ -79,20 +79,20 @@ http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzxw
 #EXTINF:-1 ,tvg-id="14" tvg-name="广州综合" tvg-country="cn" tvg-language="" tvg-logo="https://baike.baidu.com/pic/%E5%B9%BF%E5%B7%9E%E5%B9%BF%E6%92%AD%E7%94%B5%E8%A7%86%E5%8F%B0%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93/24169712/1/37d3d539b6003af352120c1f3a2ac65c1038b621?fr=lemma&ct=single" group-title="",广州综合
 http://player.ioioz.com/1369/gd/gztvm3u8.php?id=gzzh
 
-#EXTINF:-1 ,tvg-id="15" tvg-name="DiscoveryHDWorld" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",DiscoveryHDWorld
-https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1 ,tvg-id="15" tvg-name="中天新闻" tvg-country="cn" tvg-language="" tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_4gtv-4gtv001_pc.png" group-title="",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 
-#EXTINF:-1 ,tvg-id="16" tvg-name="Disney Channel" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="",Disney Channel
-http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 ,tvg-id="16" tvg-name="民视新闻" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/2560px-2014_Disney_Channel_logo.svg.png" group-title="",民视新闻
+http://seb.sason.top/sc/msxw_fhd.m3u8
 
-#EXTINF:-1 ,tvg-id="17" tvg-name="Astro欢喜台" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Astro_Xi_Yue_HD.png" group-title="",Astro欢喜台
-http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
+#EXTINF:-1 ,tvg-id="17" tvg-name="民视第一" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Astro_Xi_Yue_HD.png" group-title="",民视第一
+http://seb.sason.top/ptv/ftv.php?id=dy
 
-#EXTINF:-1 ,tvg-id="17" tvg-name="HBO台湾" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="",HBO台湾
-http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+#EXTINF:-1 ,tvg-id="17" tvg-name="寰宇新闻台" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/1024px-HBO_logo.svg.png" group-title="",寰宇新闻台
+http://58.99.33.16:1935/liveedge17/live_163_3.stream/chunklist.m3u8
 
-#EXTINF:-1 ,tvg-id="17" tvg-name="NAT GEO wild" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="",NAT GEO wild
-http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 ,tvg-id="17" tvg-name="民视旅游" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/1200px-National_Geographic_Wild_logo.svg.png" group-title="",民视旅游
+http://seb.sason.top/ptv/ftv.php?id=ly
 
 #EXTINF:-1 ,tvg-id="17" tvg-name="国家地理" tvg-country="cn" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/500px-Natgeologo.svg.png" group-title="",国家地理
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
@@ -106,6 +106,9 @@ https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
 #EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
 
-#EXTINF:-1 ,tvg-id="16" tvg-name="动物星球" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",动物星球
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 ,tvg-id="16" tvg-name="国家地理" tvg-country="cn" tvg-language="" tvg-logo="https://www.effectv.com/sites/default/files/networks/Animal%20Planet%20Large%20Stacked.png" group-title="",国家地理
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 ,tvg-id="16" tvg-name="Outdoor" tvg-country="cn" tvg-language="" tvg-logo="https://www.logolynx.com/images/logolynx/73/73bdaae46490509703d89b6c6ddb78e5.jpeg" group-title="",Outdoor
+http://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 
