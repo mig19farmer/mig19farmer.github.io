@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
-https://api.leonardpark.dev/live/icable/109
+http://livetv.dnsfor.me:80/channel.4.m3u8
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
-https://www.navchina.cf/IPTV/icable.php?id=37
+http://livetv.dnsfor.me:80/channel.3.m3u8
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
 https://api.leonardpark.dev/live/icable/108
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线咨讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线咨讯台
-https://www.navchina.cf/IPTV/icable.php?id=38
+https://www.navchina.cf/IPTV/icable.php?id=37
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="香港開電視" tvg-country="cn" tvg-language="" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+https://www.navchina.cf/IPTV/icable.php?id=77
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
