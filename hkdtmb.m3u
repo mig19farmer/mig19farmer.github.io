@@ -24,6 +24,9 @@ https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
+#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
+http://livetv.dnsfor.me/channel.18.m3u8
+
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 
