@@ -31,17 +31,16 @@ http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 http://livetv.dnsfor.me/channel.18.m3u8
 
 #EXTINF:-1 ,tvg-id="4" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://xiaojun.cyou/code/?code=iptv&c=3&id=78
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
-http://185.207.176.189:8080/channels/tv-81/chunks.m3u8
-
+http://xiaojun.cyou/code/?code=iptv800&id=1
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="明珠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+http://xiaojun.cyou/code/?code=iptv&c=3&id=77
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
+http://xiaojun.cyou/code/?code=iptv&c=3&id=94
 
 #EXTINF:-1 ,tvg-id="5" tvg-name="ViuTV" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/viutv.jpg" group-title="",ViuTV
 http://61.238.6.49:8000/bysid/99
