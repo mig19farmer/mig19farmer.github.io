@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
-http://livetv.dnsfor.me:80/channel.4.m3u8
+https://p2.weizan.cn/1646497941/697113090439139173/live.m3u8
 
 #EXTINF:-1 ,tvg-id="1" tvg-name="有线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/cabletv109.jpg" group-title="",有线新闻台
 http://livetv.dnsfor.me:80/channel.3.m3u8
@@ -16,7 +16,7 @@ https://www.navchina.cf/IPTV/icable.php?id=37
 https://www.navchina.cf/IPTV/icable.php?id=77
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
-http://190.2.133.47:8278/streams/d/Inews/playlist.m3u8
+https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
@@ -26,6 +26,9 @@ http://cdn.hkdtmb.com/hls/83/index.m3u8
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+
+#EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
+https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8
 
 #EXTINF:-1 ,tvg-id="3" tvg-name="翡翠台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/jade.jpg" group-title="",翡翠台
 http://livetv.dnsfor.me/channel.18.m3u8
@@ -47,6 +50,9 @@ http://61.238.6.49:8000/bysid/99
 
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
 https://cdn.hkdtmb.com/hls/82/index.m3u8
+
+#EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
+https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 
 #EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
