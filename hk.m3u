@@ -19,6 +19,9 @@ https://www.navchina.cf/IPTV/icable.php?id=77
 https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
+http://ye23.win/iptv/tvb.php?id=1
+
+#EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
 http://livetv.dnsfor.me/channel.10.m3u8
 
 #EXTINF:-1 ,tvg-id="2" tvg-name="无线新闻台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg" group-title="",无线新闻台
@@ -53,6 +56,9 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
+
+#EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
+http://ye23.win/iptv/tvb.php?id=2
 
 #EXTINF:-1 ,tvg-id="7" tvg-name="财经资讯台" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-finance.jpg" group-title="",财经资讯台
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
