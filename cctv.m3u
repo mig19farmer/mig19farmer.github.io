@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CCTV-1综合高清
-http://[2001:250:4801::430:89]/hls/hls27.m3u8
+http://scgctvshow.sctv.com/scgc/cctv1/index.m3u8
 #EXTINF:-1,CCTV-2财经高清
 http://[2001:250:4801::430:89]/hls/hls135.m3u8
 #EXTINF:-1,CCTV-3综艺高清
@@ -30,7 +30,7 @@ http://[2001:250:4801::430:89]/hls/hls186a11.m3u8
 #EXTINF:-1,CCTV-12社会与法高清
 http://[2001:250:4801::430:89]/hls/hls139.m3u8
 #EXTINF:-1,CCTV-13新闻高清
-http://[2001:250:4801::430:89]/hls/hls186a13.m3u8
+http://scgctvshow.sctv.com/scgc/cctv13/index.m3u8
 #EXTINF:-1,CCTV-14少儿高清
 http://[2001:250:4801::430:89]/hls/hls140.m3u8
 #EXTINF:-1,CCTV-15音乐高清
