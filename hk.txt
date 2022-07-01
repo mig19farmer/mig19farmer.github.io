@@ -9,7 +9,7 @@ http://livetv.dnsfor.me:80/channel.10.m3u8
 
 #EXTINF:-1 ,翡翠台
 tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
-http://185.207.176.189:8080/channels/tv-81/mpeg.2ts
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 
 #EXTINF:-1 ,ViuTV
 tvg-logo="http://www.zyz98.com/uploads/viutv.jpg"
