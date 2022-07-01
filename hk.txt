@@ -1,11 +1,11 @@
 #EXTM3U
 #EXTINF:-1 ,香港開電視
 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png"
-http://livetv.dnsfor.me:80/channel.9.m3u8
+http://live.cooltv.top/tv/now.php?id=332
 
 #EXTINF:-1 ,无线新闻台
 tvg-logo="http://www.zyz98.com/uploads/tvb-news.jpg"
-http://livetv.dnsfor.me:80/channel.10.m3u8
+https://cdn.hklive.tv/xxxx/83/index.m3u8
 
 #EXTINF:-1 ,翡翠台
 tvg-logo="http://www.zyz98.com/uploads/jade.jpg"
