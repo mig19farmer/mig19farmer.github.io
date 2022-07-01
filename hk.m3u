@@ -52,7 +52,7 @@ http://xiaojun.cyou/code/?code=iptv&c=3&id=94
 http://61.238.6.49:8000/bysid/99
 
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://livetv.dnsfor.me/channel.19.m3u8
 
 #EXTINF:-1 ,tvg-id="6" tvg-name="tvb-J2" tvg-country="cn" tvg-language="" tvg-logo="http://www.zyz98.com/uploads/tvb-j2.jpg" group-title="",tvb-J2
 https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
